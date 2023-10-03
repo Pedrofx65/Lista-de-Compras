@@ -1,0 +1,23 @@
+@import '../../../../../dist/scss/variables.scss';
+
+ button{
+
+    position: absolute;
+    left: 530px;
+
+    align-items: center;
+    justify-content: center;
+  
+    margin-top:30px;
+    border: none;
+    border-radius: 50px;
+    background: $danger-color;
+
+    font-size: 16px;
+    color: $secondary-text-color;
+
+    width: 20%;
+    padding: 10px;
+  }
+
+  
